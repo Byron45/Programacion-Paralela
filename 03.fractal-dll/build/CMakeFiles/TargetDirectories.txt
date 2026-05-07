@@ -1,0 +1,3 @@
+C:/tools/Programacion Paralela/03.fractal-dll/build/CMakeFiles/fractal-dll.dir
+C:/tools/Programacion Paralela/03.fractal-dll/build/CMakeFiles/edit_cache.dir
+C:/tools/Programacion Paralela/03.fractal-dll/build/CMakeFiles/rebuild_cache.dir

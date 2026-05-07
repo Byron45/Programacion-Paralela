@@ -1,0 +1,3 @@
+C:/tools/Programacion Paralela/Ejemplo01/build/CMakeFiles/ejemplo01.dir
+C:/tools/Programacion Paralela/Ejemplo01/build/CMakeFiles/edit_cache.dir
+C:/tools/Programacion Paralela/Ejemplo01/build/CMakeFiles/rebuild_cache.dir

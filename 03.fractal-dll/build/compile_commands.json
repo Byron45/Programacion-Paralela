@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/tools/Programacion Paralela/03.fractal-dll/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -Dfractal_dll_EXPORTS -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -g -o CMakeFiles\\fractal-dll.dir\\Debug\\palette.cpp.obj -c \"C:\\tools\\Programacion Paralela\\03.fractal-dll\\palette.cpp\"",
+  "file": "C:/tools/Programacion Paralela/03.fractal-dll/palette.cpp",
+  "output": "C:/tools/Programacion Paralela/03.fractal-dll/build/CMakeFiles/fractal-dll.dir/Debug/palette.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/03.fractal-dll/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -Dfractal_dll_EXPORTS -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -g -o CMakeFiles\\fractal-dll.dir\\Debug\\fractal_simd.cpp.obj -c \"C:\\tools\\Programacion Paralela\\03.fractal-dll\\fractal_simd.cpp\"",
+  "file": "C:/tools/Programacion Paralela/03.fractal-dll/fractal_simd.cpp",
+  "output": "C:/tools/Programacion Paralela/03.fractal-dll/build/CMakeFiles/fractal-dll.dir/Debug/fractal_simd.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/03.fractal-dll/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -Dfractal_dll_EXPORTS -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O3 -DNDEBUG -o CMakeFiles\\fractal-dll.dir\\Release\\palette.cpp.obj -c \"C:\\tools\\Programacion Paralela\\03.fractal-dll\\palette.cpp\"",
+  "file": "C:/tools/Programacion Paralela/03.fractal-dll/palette.cpp",
+  "output": "C:/tools/Programacion Paralela/03.fractal-dll/build/CMakeFiles/fractal-dll.dir/Release/palette.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/03.fractal-dll/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -Dfractal_dll_EXPORTS -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O3 -DNDEBUG -o CMakeFiles\\fractal-dll.dir\\Release\\fractal_simd.cpp.obj -c \"C:\\tools\\Programacion Paralela\\03.fractal-dll\\fractal_simd.cpp\"",
+  "file": "C:/tools/Programacion Paralela/03.fractal-dll/fractal_simd.cpp",
+  "output": "C:/tools/Programacion Paralela/03.fractal-dll/build/CMakeFiles/fractal-dll.dir/Release/fractal_simd.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/03.fractal-dll/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -Dfractal_dll_EXPORTS -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O2 -g -DNDEBUG -o CMakeFiles\\fractal-dll.dir\\RelWithDebInfo\\palette.cpp.obj -c \"C:\\tools\\Programacion Paralela\\03.fractal-dll\\palette.cpp\"",
+  "file": "C:/tools/Programacion Paralela/03.fractal-dll/palette.cpp",
+  "output": "C:/tools/Programacion Paralela/03.fractal-dll/build/CMakeFiles/fractal-dll.dir/RelWithDebInfo/palette.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/03.fractal-dll/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -Dfractal_dll_EXPORTS -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O2 -g -DNDEBUG -o CMakeFiles\\fractal-dll.dir\\RelWithDebInfo\\fractal_simd.cpp.obj -c \"C:\\tools\\Programacion Paralela\\03.fractal-dll\\fractal_simd.cpp\"",
+  "file": "C:/tools/Programacion Paralela/03.fractal-dll/fractal_simd.cpp",
+  "output": "C:/tools/Programacion Paralela/03.fractal-dll/build/CMakeFiles/fractal-dll.dir/RelWithDebInfo/fractal_simd.cpp.obj"
+}
+]

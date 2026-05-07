@@ -1,0 +1,5 @@
+# ninja log v7
+17	654	7980161849561540	CMakeFiles/ejemplo01.dir/Debug/main.cpp.obj	43071a8575239aa3
+655	2114	7980161855932475	Debug/ejemplo01.exe	67e78a3c442bbe61
+3	335	7979629165593404	CMakeFiles/ejemplo01.dir/Release/main.cpp.obj	6ac62b36d3c2e4ac
+336	996	7979629168922081	Release/ejemplo01.exe	92c3f17d5c29becd
