@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/tools/Programacion Paralela/Tarea/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp -g -o CMakeFiles\\Tarea.dir\\Debug\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Tarea\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Tarea/main.cpp",
+  "output": "C:/tools/Programacion Paralela/Tarea/build/CMakeFiles/Tarea.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Tarea/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp -O3 -DNDEBUG -o CMakeFiles\\Tarea.dir\\Release\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Tarea\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Tarea/main.cpp",
+  "output": "C:/tools/Programacion Paralela/Tarea/build/CMakeFiles/Tarea.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Tarea/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp -O2 -g -DNDEBUG -o CMakeFiles\\Tarea.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Tarea\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Tarea/main.cpp",
+  "output": "C:/tools/Programacion Paralela/Tarea/build/CMakeFiles/Tarea.dir/RelWithDebInfo/main.cpp.obj"
+}
+]

@@ -19,7 +19,7 @@ public class FractalParam {
 
     public static final int PALETTE_SIZE = 16;
 
-    public static final int[] colorRamp = {
+    public static final int[] colorRamp1 = {
 
             (0xEFF3FFFF),
             (0xE2ECF9FF),
@@ -38,7 +38,27 @@ public class FractalParam {
             (0x135EA5FF),
             (0x08519CFF)
     };
-}
+
+    public static final int[] colorRamp2 = {
+
+            (0xFF1010FF),
+            (0xF31017FF),
+            (0xE8101EFF),
+            (0xDC1126FF),
+            (0xD1112DFF),
+            (0xC51235FF),
+            (0xBA123CFF),
+            (0xAE1343FF),
+            (0xA3134BFF),
+            (0x971452FF),
+            (0x8C145AFF),
+            (0x801461FF),
+            (0x74ADD1FF),
+            (0x5588BEFF),
+            (0x3E60AAFF),
+            (0x313695FF)};
+};
+
 
 
 

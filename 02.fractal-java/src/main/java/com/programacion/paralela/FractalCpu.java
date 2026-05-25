@@ -11,7 +11,7 @@ public class FractalCpu {
         this.pixelBuffer = new int[WIDTH * HEIGHT];
     }
 
-    int acotado_2(double x, double y) {
+    public static int acotado_2(double x, double y) {
 
         int iter = 1;
         double zr = x;
@@ -28,7 +28,7 @@ public class FractalCpu {
 
         if (iter < FractalParam.maxIteraciones) {
             int index = iter % PALETTE_SIZE;
-            return colorRamp[index];
+            return colorRamp1[index];
         }
 
         return 0xFF000000;

@@ -22,18 +22,19 @@ public class FractalMain {
 
     FractalCpu fractalCpu;
     FractalSimd fractalSimd;
+    FractalThreads fractalThreads;
     FPSCounter fpsCounter;
 
-    int modo = 1; //1=CPU, 2=SIMD
+    int modo = 1; //1=CPU, 2=SIMD, 3=OpenMp
 
     public FractalMain() {
         fractalCpu = new FractalCpu();
         fractalSimd = new FractalSimd();
+        fractalThreads = new FractalThreads(0, 1, xMin, yMin, xMax, yMax, WIDTH, HEIGHT);
         fpsCounter = new FPSCounter();
 
         pixelBuffer = BufferUtils.createIntBuffer(WIDTH * HEIGHT);
     }
-
 
     public void run() {
         System.out.println("Fractal Julia " + Version.getVersion() + "!");
@@ -84,6 +85,10 @@ public class FractalMain {
             if (key == GLFW_KEY_2 && action == GLFW_RELEASE) {
                 System.out.println("Modo C/C++ SIMD");
                 modo = 2;
+            }
+            if (key == GLFW_KEY_3 && action == GLFW_RELEASE) {
+                System.out.println("Modo OpenMp");
+                modo = 3;
             }
         });
 
@@ -162,6 +167,9 @@ public class FractalMain {
         } else if (modo == 2) {
             fractalSimd.juliaSimd();
             pixelBuffer.put(fractalSimd.pixelBuffer.asIntBuffer());
+        } else if (modo == 3) {
+            fractalThreads.julia_parallel();
+            pixelBuffer.put(fractalCpu.pixelBuffer);
         }
 
         pixelBuffer.flip(); //resetear el indice en 0
@@ -194,7 +202,6 @@ public class FractalMain {
 
         glEnd();
     }
-
 
     public static void main(String[] args) {
         new FractalMain().run();

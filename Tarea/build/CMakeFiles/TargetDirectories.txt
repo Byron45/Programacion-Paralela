@@ -1,0 +1,3 @@
+C:/tools/Programacion Paralela/Tarea/build/CMakeFiles/Tarea.dir
+C:/tools/Programacion Paralela/Tarea/build/CMakeFiles/edit_cache.dir
+C:/tools/Programacion Paralela/Tarea/build/CMakeFiles/rebuild_cache.dir

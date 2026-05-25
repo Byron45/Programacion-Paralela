@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/tools/Programacion Paralela/04.ejemplo-openmp/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -g -o CMakeFiles\\ejemplo-openmp.dir\\Debug\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\04.ejemplo-openmp\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/04.ejemplo-openmp/main.cpp",
+  "output": "C:/tools/Programacion Paralela/04.ejemplo-openmp/build/CMakeFiles/ejemplo-openmp.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/04.ejemplo-openmp/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O3 -DNDEBUG -o CMakeFiles\\ejemplo-openmp.dir\\Release\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\04.ejemplo-openmp\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/04.ejemplo-openmp/main.cpp",
+  "output": "C:/tools/Programacion Paralela/04.ejemplo-openmp/build/CMakeFiles/ejemplo-openmp.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/04.ejemplo-openmp/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O2 -g -DNDEBUG -o CMakeFiles\\ejemplo-openmp.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\04.ejemplo-openmp\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/04.ejemplo-openmp/main.cpp",
+  "output": "C:/tools/Programacion Paralela/04.ejemplo-openmp/build/CMakeFiles/ejemplo-openmp.dir/RelWithDebInfo/main.cpp.obj"
+}
+]

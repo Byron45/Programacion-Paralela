@@ -1,6 +1,13 @@
 # ninja log v7
-14	628	7987763827989936	CMakeFiles/fractal-julia.dir/Debug/palette.cpp.obj	42a2f60ad5fa3a42
-21	929	7987763828063527	CMakeFiles/fractal-julia.dir/Debug/fractal_serial.cpp.obj	4c23e4eeaea5f192
-9	1181	7987768030677121	CMakeFiles/fractal-julia.dir/Debug/fractal_simd.cpp.obj	1651db20aca4049
-5	2473	7987763827905341	CMakeFiles/fractal-julia.dir/Debug/main.cpp.obj	a81f090a5dc0a693
-1182	4099	7987768042397447	Debug/fractal-julia.exe	9930a486e4742893
+18	305	8008980824499283	CMakeFiles/fractal-julia.dir/Debug/palette.cpp.obj	1259a2847bdbdb29
+22	454	8008980824588203	CMakeFiles/fractal-julia.dir/Debug/fractal_serial.cpp.obj	ac2bebf3bb0da22a
+26	854	8008980824640189	CMakeFiles/fractal-julia.dir/Debug/fractal_simd.cpp.obj	8996661e4b9c0ccd
+5	1812	8008985851627659	CMakeFiles/fractal-julia.dir/Debug/main.cpp.obj	565f4112ba6a2f7f
+1812	4727	8008985869692532	Debug/fractal-julia.exe	92dcb2308176e592
+22	434	8008985851798282	CMakeFiles/fractal-julia.dir/Debug/fractal_openmp.cpp.obj	67df1db24bac06
+13	306	8013703690158694	CMakeFiles/fractal-julia.dir/Release/palette.cpp.obj	744023aa14eb57bb
+30	1059	8013703690325033	CMakeFiles/fractal-julia.dir/Release/fractal_openmp.cpp.obj	54384e54ad3aa2a7
+19	519	8013703690218692	CMakeFiles/fractal-julia.dir/Release/fractal_serial.cpp.obj	cfe66db432453c58
+25	1018	8013703690269985	CMakeFiles/fractal-julia.dir/Release/fractal_simd.cpp.obj	d40f1f5b24a969db
+7	1764	8013703690093574	CMakeFiles/fractal-julia.dir/Release/main.cpp.obj	cab5f5ee3d3bfb51
+1764	4548	8013703707663199	Release/fractal-julia.exe	ccf77fb652c8b353

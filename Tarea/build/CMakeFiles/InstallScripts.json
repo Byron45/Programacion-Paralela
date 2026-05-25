@@ -1,0 +1,11 @@
+{
+	"Configs" : 
+	[
+		"Debug"
+	],
+	"InstallScripts" : 
+	[
+		"C:/tools/Programacion Paralela/Tarea/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

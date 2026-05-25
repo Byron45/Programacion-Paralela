@@ -4,9 +4,10 @@
 
 #include "fractal_serial.h"
 #include "fractal_simd.h"
-
+#include "fractal_openmp.h"
 #ifdef _WIN32
 #include <windows.h>
+#include <omp.h>
 #endif
 
 // Dimension de la imagen
@@ -30,11 +31,23 @@ enum class runtime_type
 {
     SERIAL_1 = 0,
     SERIAL_2,
-    SIMD
+    SIMD,
+    OPENMP,
+    OPENMPFOR,
+    OPENMPFORSIMD
 };
 
 int main()
+
 {
+
+    int thread_count;
+
+#pragma omp parallel
+    {
+#pragma omp master
+        thread_count = omp_get_num_threads();
+    }
 
     runtime_type r_type = runtime_type::SERIAL_1;
 
@@ -55,7 +68,7 @@ int main()
     text.setPosition({10, 10});
     text.setStyle(sf::Text::Bold);
 
-    std::string options = "Options: [1] Serial 1 [2] Serial 2 [3] SIMD | Up/Down: Change Iterations";
+    std::string options = "Options: [1] Serial 1 [2] Serial 2 [3] SIMD | [4] OPENMP | [5] OPENMP FOR | [6] OPENMP FOR SIMD | Up/Down: Change Iterations";
     sf::Text textOptions(font, options, 20);
     textOptions.setFillColor(sf::Color::White);
     textOptions.setStyle(sf::Text::Bold);
@@ -95,8 +108,20 @@ int main()
                 case sf::Keyboard::Scan::Num3:
                     r_type = runtime_type::SIMD;
                     break;
+                case sf::Keyboard::Scan::Num4:
+                    r_type = runtime_type::OPENMP;
+                    break;
+                case sf::Keyboard::Scan::Num5:
+                    r_type = runtime_type::OPENMPFOR;
+                    break;
+                case sf::Keyboard::Scan::Num6:
+                    r_type = runtime_type::OPENMPFORSIMD;
+                    break;
                 }
             }
+
+        std:
+            memset(pixel_buffer, 0, WIDTH * HEIGHT * sizeof(uint32_t));
         }
 
         std::string mode = "";
@@ -115,6 +140,25 @@ int main()
         {
             julia_simd(x_min, y_min, x_max, y_max, WIDTH, HEIGHT, pixel_buffer);
             mode = "SIMD";
+        }
+
+        else if (r_type == runtime_type::OPENMP)
+        {
+            julia_openmp_regiones(x_min, y_min, x_max, y_max, WIDTH, HEIGHT, pixel_buffer);
+            mode = fmt::format("Julia OPENMP  {} (threads)", thread_count);
+            ;
+        }
+
+        else if (r_type == runtime_type::OPENMPFOR)
+        {
+            julia_openmp_for(x_min, y_min, x_max, y_max, WIDTH, HEIGHT, pixel_buffer);
+            mode = fmt::format("Julia OPENMP FOR  {} (threads)", thread_count);
+        }
+
+        else if (r_type == runtime_type::OPENMPFORSIMD)
+        {
+            julia_openmp_for_simd(x_min, y_min, x_max, y_max, WIDTH, HEIGHT, pixel_buffer);
+            mode = fmt::format("Julia OPENMP FOR SIMD  {} (threads)", thread_count);
         }
 
         // dibujar fractal

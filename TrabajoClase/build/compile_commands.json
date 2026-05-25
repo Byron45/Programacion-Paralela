@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/tools/Programacion Paralela/TrabajoClase/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp -g -o CMakeFiles\\TrabajoClase.dir\\Debug\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\TrabajoClase\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/TrabajoClase/main.cpp",
+  "output": "C:/tools/Programacion Paralela/TrabajoClase/build/CMakeFiles/TrabajoClase.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/TrabajoClase/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp -O3 -DNDEBUG -o CMakeFiles\\TrabajoClase.dir\\Release\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\TrabajoClase\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/TrabajoClase/main.cpp",
+  "output": "C:/tools/Programacion Paralela/TrabajoClase/build/CMakeFiles/TrabajoClase.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/TrabajoClase/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp -O2 -g -DNDEBUG -o CMakeFiles\\TrabajoClase.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\TrabajoClase\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/TrabajoClase/main.cpp",
+  "output": "C:/tools/Programacion Paralela/TrabajoClase/build/CMakeFiles/TrabajoClase.dir/RelWithDebInfo/main.cpp.obj"
+}
+]
