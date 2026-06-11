@@ -1,0 +1,5 @@
+C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/ejemplo-mpi.dir
+C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/matrices-mult.dir
+C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/matrices-mult-colectiva.dir
+C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/edit_cache.dir
+C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/rebuild_cache.dir

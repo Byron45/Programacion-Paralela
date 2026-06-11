@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\ejemplo-mpi.dir\\Debug\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\05.ejemplo-mpi\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/05.ejemplo-mpi/main.cpp",
+  "output": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/ejemplo-mpi.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -o CMakeFiles\\ejemplo-mpi.dir\\Release\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\05.ejemplo-mpi\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/05.ejemplo-mpi/main.cpp",
+  "output": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/ejemplo-mpi.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -o CMakeFiles\\ejemplo-mpi.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\05.ejemplo-mpi\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/05.ejemplo-mpi/main.cpp",
+  "output": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/ejemplo-mpi.dir/RelWithDebInfo/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\matrices-mult.dir\\Debug\\matrices_mult.cpp.obj -c \"C:\\tools\\Programacion Paralela\\05.ejemplo-mpi\\matrices_mult.cpp\"",
+  "file": "C:/tools/Programacion Paralela/05.ejemplo-mpi/matrices_mult.cpp",
+  "output": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/matrices-mult.dir/Debug/matrices_mult.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -o CMakeFiles\\matrices-mult.dir\\Release\\matrices_mult.cpp.obj -c \"C:\\tools\\Programacion Paralela\\05.ejemplo-mpi\\matrices_mult.cpp\"",
+  "file": "C:/tools/Programacion Paralela/05.ejemplo-mpi/matrices_mult.cpp",
+  "output": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/matrices-mult.dir/Release/matrices_mult.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -o CMakeFiles\\matrices-mult.dir\\RelWithDebInfo\\matrices_mult.cpp.obj -c \"C:\\tools\\Programacion Paralela\\05.ejemplo-mpi\\matrices_mult.cpp\"",
+  "file": "C:/tools/Programacion Paralela/05.ejemplo-mpi/matrices_mult.cpp",
+  "output": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/matrices-mult.dir/RelWithDebInfo/matrices_mult.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\matrices-mult-colectiva.dir\\Debug\\matrices_mult_colectiva.cpp.obj -c \"C:\\tools\\Programacion Paralela\\05.ejemplo-mpi\\matrices_mult_colectiva.cpp\"",
+  "file": "C:/tools/Programacion Paralela/05.ejemplo-mpi/matrices_mult_colectiva.cpp",
+  "output": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/matrices-mult-colectiva.dir/Debug/matrices_mult_colectiva.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -o CMakeFiles\\matrices-mult-colectiva.dir\\Release\\matrices_mult_colectiva.cpp.obj -c \"C:\\tools\\Programacion Paralela\\05.ejemplo-mpi\\matrices_mult_colectiva.cpp\"",
+  "file": "C:/tools/Programacion Paralela/05.ejemplo-mpi/matrices_mult_colectiva.cpp",
+  "output": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/matrices-mult-colectiva.dir/Release/matrices_mult_colectiva.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -o CMakeFiles\\matrices-mult-colectiva.dir\\RelWithDebInfo\\matrices_mult_colectiva.cpp.obj -c \"C:\\tools\\Programacion Paralela\\05.ejemplo-mpi\\matrices_mult_colectiva.cpp\"",
+  "file": "C:/tools/Programacion Paralela/05.ejemplo-mpi/matrices_mult_colectiva.cpp",
+  "output": "C:/tools/Programacion Paralela/05.ejemplo-mpi/build/CMakeFiles/matrices-mult-colectiva.dir/RelWithDebInfo/matrices_mult_colectiva.cpp.obj"
+}
+]

@@ -116,12 +116,6 @@ int main()
 {
     int width, height, channels;
     uint8_t *rgba_pixels = stbi_load("aucas.png", &width, &height, &channels, STBI_rgb_alpha);
-
-    if (!rgba_pixels)
-    {
-        fmt::println("Error al cargar la imagen aucas.png");
-        return -1;
-    }
     channels = 4;
     int num_pixels = width * height;
 
@@ -199,10 +193,6 @@ int main()
                         stbi_write_png("salida_openmp.png", width, height, STBI_grey, gray_pixels, width);
                         fmt::println("Imagen guardada: salida_openmp.png");
                     }
-                    else
-                    {
-                        fmt::println("Aplica un filtro (2 o 3) antes de guardar.");
-                    }
                     break;
                 }
             }
@@ -221,7 +211,7 @@ int main()
             {
                 grayscale_simd(rgba_pixels, gray_pixels, num_pixels);
                 map_gray_to_rgba(gray_pixels, display_buffer, num_pixels);
-                mode = "SIMD (Intrinsecos)";
+                mode = "SIMD";
             }
             else if (r_type == runtime_type::OPENMP)
             {
@@ -238,7 +228,7 @@ int main()
             if (r_type == runtime_type::ORIGINAL)
                 mode = "ORIGINAL";
             else if (r_type == runtime_type::SIMD)
-                mode = "SIMD (Intrinsecos)";
+                mode = "SIMD";
             else if (r_type == runtime_type::OPENMP)
                 mode = fmt::format("OPENMP ({} hilos)", thread_count);
         }

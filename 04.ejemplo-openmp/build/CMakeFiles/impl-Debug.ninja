@@ -51,8 +51,6 @@ build CMakeFiles/ejemplo-openmp.dir/Debug/main.cpp.obj: CXX_COMPILER__ejemplo-op
   INCLUDES = -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include
   OBJECT_DIR = CMakeFiles\ejemplo-openmp.dir\Debug
   OBJECT_FILE_DIR = CMakeFiles\ejemplo-openmp.dir\Debug
-  TARGET_COMPILE_PDB = CMakeFiles\ejemplo-openmp.dir\Debug\
-  TARGET_PDB = Debug\ejemplo-openmp.pdb
   TARGET_SUPPORT_DIR = CMakeFiles\ejemplo-openmp.dir
 
 
@@ -70,10 +68,9 @@ build Debug/ejemplo-openmp.exe: CXX_EXECUTABLE_LINKER__ejemplo-openmp_Debug CMak
   OBJECT_DIR = CMakeFiles\ejemplo-openmp.dir\Debug
   POST_BUILD = C:\Windows\system32\cmd.exe /C "cd /D "C:\tools\Programacion Paralela\04.ejemplo-openmp\build" && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file C:/tools/vcpkg-2026.03.18/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "C:/tools/Programacion Paralela/04.ejemplo-openmp/build/Debug/ejemplo-openmp.exe" -installedDir C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/debug/bin -OutVariable out"
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ejemplo-openmp.dir\Debug\
   TARGET_FILE = Debug\ejemplo-openmp.exe
   TARGET_IMPLIB = Debug\libejemplo-openmp.dll.a
-  TARGET_PDB = Debug\ejemplo-openmp.pdb
+  TARGET_PDB = ejemplo-openmp.exe.dbg
   TARGET_SUPPORT_DIR = CMakeFiles\ejemplo-openmp.dir
 
 build ejemplo-openmp.exe$:Debug: phony Debug/ejemplo-openmp.exe

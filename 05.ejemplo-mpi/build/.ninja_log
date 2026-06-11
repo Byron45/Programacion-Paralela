@@ -1,0 +1,11 @@
+# ninja log v7
+3	542	8029218143821209	CMakeFiles/ejemplo-mpi.dir/Debug/main.cpp.obj	bb63fd59120dfcec
+21	684	8029218144008589	CMakeFiles/matrices-mult-colectiva.dir/Debug/matrices_mult_colectiva.cpp.obj	c7e32d875756cad7
+13	696	8029218143927869	CMakeFiles/matrices-mult.dir/Debug/matrices_mult.cpp.obj	a9a191bdf63b5c67
+544	1377	8029218149235376	Debug/ejemplo-mpi.exe	d0ea2867eaa6aefb
+684	1534	8029218150635907	Debug/matrices-mult-colectiva.exe	d5f007a8ad3ee315
+696	1595	8029218150755687	Debug/matrices-mult.exe	9fe150cb536752e5
+14	666	8029220918786995	CMakeFiles/matrices-mult-colectiva.dir/Debug/matrices_mult_colectiva.cpp.obj	c7e32d875756cad7
+7	674	8029220918716853	CMakeFiles/matrices-mult.dir/Debug/matrices_mult.cpp.obj	a9a191bdf63b5c67
+674	1508	8029220925398651	Debug/matrices-mult.exe	9fe150cb536752e5
+667	1521	8029220925312860	Debug/matrices-mult-colectiva.exe	d5f007a8ad3ee315

@@ -51,8 +51,6 @@ build CMakeFiles/TrabajoClase.dir/RelWithDebInfo/main.cpp.obj: CXX_COMPILER__Tra
   INCLUDES = -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include
   OBJECT_DIR = CMakeFiles\TrabajoClase.dir\RelWithDebInfo
   OBJECT_FILE_DIR = CMakeFiles\TrabajoClase.dir\RelWithDebInfo
-  TARGET_COMPILE_PDB = CMakeFiles\TrabajoClase.dir\RelWithDebInfo\
-  TARGET_PDB = RelWithDebInfo\TrabajoClase.pdb
   TARGET_SUPPORT_DIR = CMakeFiles\TrabajoClase.dir
 
 
@@ -70,10 +68,9 @@ build RelWithDebInfo/TrabajoClase.exe: CXX_EXECUTABLE_LINKER__TrabajoClase_RelWi
   OBJECT_DIR = CMakeFiles\TrabajoClase.dir\RelWithDebInfo
   POST_BUILD = C:\Windows\system32\cmd.exe /C "cd /D "C:\tools\Programacion Paralela\TrabajoClase\build" && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file c:/tools/vcpkg-2026.03.18/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "C:/tools/Programacion Paralela/TrabajoClase/build/RelWithDebInfo/TrabajoClase.exe" -installedDir c:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/bin -OutVariable out"
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\TrabajoClase.dir\RelWithDebInfo\
   TARGET_FILE = RelWithDebInfo\TrabajoClase.exe
   TARGET_IMPLIB = RelWithDebInfo\libTrabajoClase.dll.a
-  TARGET_PDB = RelWithDebInfo\TrabajoClase.pdb
+  TARGET_PDB = TrabajoClase.exe.dbg
   TARGET_SUPPORT_DIR = CMakeFiles\TrabajoClase.dir
 
 build TrabajoClase.exe$:RelWithDebInfo: phony RelWithDebInfo/TrabajoClase.exe
