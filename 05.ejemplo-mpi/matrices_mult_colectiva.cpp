@@ -93,15 +93,13 @@ int main(int argc, char **argv)
   std::vector<double> A_local(rows_per_rank * MATRIX_DIM);
   std::vector<double> x_local(rows_per_rank);
 
-  MPI_Scatter(A.empty() ? nullptr : A.data(), rows_per_rank * MATRIX_DIM, MPI_DOUBLE,
-              A_local.data(), rows_per_rank * MATRIX_DIM, MPI_DOUBLE,
-              0, MPI_COMM_WORLD);
+  MPI_Scatter(A.data(), rows_per_rank * MATRIX_DIM, MPI_DOUBLE, A_local.data(),
+              rows_per_rank * MATRIX_DIM, MPI_DOUBLE, 0, MPI_COMM_WORLD);
 
   multiplicar_matriz_vector(A_local, b, x_local, rows_per_rank, MATRIX_DIM);
 
-  MPI_Gather(x_local.data(), rows_per_rank, MPI_DOUBLE,
-             x.empty() ? nullptr : x.data(), rows_per_rank, MPI_DOUBLE,
-             0, MPI_COMM_WORLD);
+  MPI_Gather(x_local.data(), rows_per_rank, MPI_DOUBLE, x.data(), rows_per_rank,
+             MPI_DOUBLE, 0, MPI_COMM_WORLD);
 
   if (rank == 0)
   {

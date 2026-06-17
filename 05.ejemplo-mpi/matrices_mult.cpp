@@ -50,7 +50,7 @@ int main(int argc, char **argv) {
     // Numero de filas fijas para CADA RANK (proceso)
     int rows_per_rank = std::ceil(MATRIX_DIM * 1.0 / nprocs);
 
-    // Calculamos cuánto relleno necesitamos para que sea divisible exacto
+    // Calculamos cuanto relleno necesitamos para que sea divisible exacto
     int padding = rows_per_rank * nprocs - MATRIX_DIM;
     int padded_rows =
         MATRIX_DIM + padding; // Total de filas con el relleno incluido
