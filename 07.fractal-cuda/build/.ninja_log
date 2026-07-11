@@ -1,0 +1,4 @@
+# ninja log v7
+2	769	8051505550167195	CMakeFiles/fractal-cuda.dir/main.cpp.obj	fcd1ef5760715d45
+15	1596	8051507581092852	CMakeFiles/fractal-cuda.dir/kernel.cu.obj	c7d7558b8ef42a35
+1597	2798	8051507596916906	fractal-cuda.exe	ad4e272cdd6b08fd

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/tools/Programacion Paralela/08.fractal-cuda/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
