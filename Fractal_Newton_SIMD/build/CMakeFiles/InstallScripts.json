@@ -1,0 +1,11 @@
+{
+	"Configs" : 
+	[
+		"Debug"
+	],
+	"InstallScripts" : 
+	[
+		"C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,3 @@
+C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir
+C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/edit_cache.dir
+C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/rebuild_cache.dir

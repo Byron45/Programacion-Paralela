@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -g -o CMakeFiles\\newton-openmp.dir\\Debug\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/main.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -g -o CMakeFiles\\newton-openmp.dir\\Debug\\palette.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\palette.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/palette.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/Debug/palette.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -g -o CMakeFiles\\newton-openmp.dir\\Debug\\newton_serial.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\newton_serial.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/newton_serial.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/Debug/newton_serial.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -g -o CMakeFiles\\newton-openmp.dir\\Debug\\newton_openmp.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\newton_openmp.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/newton_openmp.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/Debug/newton_openmp.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O3 -DNDEBUG -o CMakeFiles\\newton-openmp.dir\\Release\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/main.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O3 -DNDEBUG -o CMakeFiles\\newton-openmp.dir\\Release\\palette.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\palette.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/palette.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/Release/palette.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O3 -DNDEBUG -o CMakeFiles\\newton-openmp.dir\\Release\\newton_serial.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\newton_serial.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/newton_serial.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/Release/newton_serial.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O3 -DNDEBUG -o CMakeFiles\\newton-openmp.dir\\Release\\newton_openmp.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\newton_openmp.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/newton_openmp.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/Release/newton_openmp.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O2 -g -DNDEBUG -o CMakeFiles\\newton-openmp.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/main.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/RelWithDebInfo/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O2 -g -DNDEBUG -o CMakeFiles\\newton-openmp.dir\\RelWithDebInfo\\palette.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\palette.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/palette.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/RelWithDebInfo/palette.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O2 -g -DNDEBUG -o CMakeFiles\\newton-openmp.dir\\RelWithDebInfo\\newton_serial.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\newton_serial.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/newton_serial.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/RelWithDebInfo/newton_serial.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -fopenmp -O2 -g -DNDEBUG -o CMakeFiles\\newton-openmp.dir\\RelWithDebInfo\\newton_openmp.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_OpenMP\\newton_openmp.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/newton_openmp.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir/RelWithDebInfo/newton_openmp.cpp.obj"
+}
+]

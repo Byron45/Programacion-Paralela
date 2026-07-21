@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -g -o CMakeFiles\\newton-simd.dir\\Debug\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/main.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -g -o CMakeFiles\\newton-simd.dir\\Debug\\palette.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\palette.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/palette.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/Debug/palette.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -g -o CMakeFiles\\newton-simd.dir\\Debug\\newton_serial.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\newton_serial.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/newton_serial.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/Debug/newton_serial.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -g -o CMakeFiles\\newton-simd.dir\\Debug\\newton_simd.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\newton_simd.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/newton_simd.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/Debug/newton_simd.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O3 -DNDEBUG -o CMakeFiles\\newton-simd.dir\\Release\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/main.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O3 -DNDEBUG -o CMakeFiles\\newton-simd.dir\\Release\\palette.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\palette.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/palette.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/Release/palette.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O3 -DNDEBUG -o CMakeFiles\\newton-simd.dir\\Release\\newton_serial.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\newton_serial.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/newton_serial.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/Release/newton_serial.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O3 -DNDEBUG -o CMakeFiles\\newton-simd.dir\\Release\\newton_simd.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\newton_simd.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/newton_simd.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/Release/newton_simd.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O2 -g -DNDEBUG -o CMakeFiles\\newton-simd.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\main.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/main.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/RelWithDebInfo/main.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O2 -g -DNDEBUG -o CMakeFiles\\newton-simd.dir\\RelWithDebInfo\\palette.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\palette.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/palette.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/RelWithDebInfo/palette.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O2 -g -DNDEBUG -o CMakeFiles\\newton-simd.dir\\RelWithDebInfo\\newton_serial.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\newton_serial.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/newton_serial.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/RelWithDebInfo/newton_serial.cpp.obj"
+},
+{
+  "directory": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include  -mavx2 -O2 -g -DNDEBUG -o CMakeFiles\\newton-simd.dir\\RelWithDebInfo\\newton_simd.cpp.obj -c \"C:\\tools\\Programacion Paralela\\Fractal_Newton_SIMD\\newton_simd.cpp\"",
+  "file": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/newton_simd.cpp",
+  "output": "C:/tools/Programacion Paralela/Fractal_Newton_SIMD/build/CMakeFiles/newton-simd.dir/RelWithDebInfo/newton_simd.cpp.obj"
+}
+]

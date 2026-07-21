@@ -1,0 +1,3 @@
+C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/newton-openmp.dir
+C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/edit_cache.dir
+C:/tools/Programacion Paralela/Fractal_Newton_OpenMP/build/CMakeFiles/rebuild_cache.dir
