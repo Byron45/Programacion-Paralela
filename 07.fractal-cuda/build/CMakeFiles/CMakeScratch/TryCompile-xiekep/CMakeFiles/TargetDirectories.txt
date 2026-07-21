@@ -1,0 +1,3 @@
+C:/tools/Programacion Paralela/07.fractal-cuda/build/CMakeFiles/CMakeScratch/TryCompile-xiekep/CMakeFiles/cmTC_b85d6.dir
+C:/tools/Programacion Paralela/07.fractal-cuda/build/CMakeFiles/CMakeScratch/TryCompile-xiekep/CMakeFiles/edit_cache.dir
+C:/tools/Programacion Paralela/07.fractal-cuda/build/CMakeFiles/CMakeScratch/TryCompile-xiekep/CMakeFiles/rebuild_cache.dir

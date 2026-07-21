@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\newton-mpi.dir\\Debug\\main.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\main.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/main.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\newton-mpi.dir\\Debug\\newton_mpi.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\newton_mpi.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/newton_mpi.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/Debug/newton_mpi.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\newton-mpi.dir\\Debug\\palette.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\palette.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/palette.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/Debug/palette.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\newton-mpi.dir\\Debug\\draw_text.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\draw_text.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/draw_text.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/Debug/draw_text.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -o CMakeFiles\\newton-mpi.dir\\Release\\main.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\main.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/main.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -o CMakeFiles\\newton-mpi.dir\\Release\\newton_mpi.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\newton_mpi.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/newton_mpi.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/Release/newton_mpi.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -o CMakeFiles\\newton-mpi.dir\\Release\\palette.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\palette.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/palette.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/Release/palette.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -o CMakeFiles\\newton-mpi.dir\\Release\\draw_text.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\draw_text.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/draw_text.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/Release/draw_text.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -o CMakeFiles\\newton-mpi.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\main.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/main.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/RelWithDebInfo/main.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -o CMakeFiles\\newton-mpi.dir\\RelWithDebInfo\\newton_mpi.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\newton_mpi.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/newton_mpi.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/RelWithDebInfo/newton_mpi.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -o CMakeFiles\\newton-mpi.dir\\RelWithDebInfo\\palette.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\palette.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/palette.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/RelWithDebInfo/palette.cpp.obj"
+},
+{
+  "directory": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/oneAPI/mpi/latest/include -isystem C:/tools/vcpkg-2026.03.18/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -o CMakeFiles\\newton-mpi.dir\\RelWithDebInfo\\draw_text.cpp.obj -c \"C:\\Clases\\Decimo Semestre\\Programación Paralela\\Correcciones\\prueba01_Flores_Armijo_Byron\\draw_text.cpp\"",
+  "file": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/draw_text.cpp",
+  "output": "C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir/RelWithDebInfo/draw_text.cpp.obj"
+}
+]

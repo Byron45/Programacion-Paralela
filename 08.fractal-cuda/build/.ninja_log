@@ -1,24 +1,6 @@
 # ninja log v7
-267	511	8052190927406813	CMakeFiles/fractal-cuda.dir/palette.cpp.obj	ec53f34a89919239
-9	1390	8052190924866136	CMakeFiles/fractal-cuda.dir/main.cpp.obj	b4677fc08629d1c4
-18	1482	8052190924952789	CMakeFiles/fractal-cuda.dir/kernel.cu.obj	2f6075a22e6a2af8
-1483	2348	8052190939596804	fractal-cuda.exe	2ef3b6e09fe99e30
-3	14	8052190921462907	clean	d8d2d88be7eb3cfb
 293	483	8052191393259292	CMakeFiles/fractal-cuda.dir/palette.cpp.obj	ec53f34a89919239
-6	1283	8052191390295642	CMakeFiles/fractal-cuda.dir/main.cpp.obj	b4677fc08629d1c4
-12	1369	8052191390443243	CMakeFiles/fractal-cuda.dir/kernel.cu.obj	2f6075a22e6a2af8
-1369	2284	8052191403984773	fractal-cuda.exe	2ef3b6e09fe99e30
-20	1369	8052195306872031	CMakeFiles/fractal-cuda.dir/kernel.cu.obj	2f6075a22e6a2af8
-37	1674	8052207833034826	CMakeFiles/fractal-cuda.dir/main.cpp.obj	b4677fc08629d1c4
-6	1154	8052213421986061	CMakeFiles/fractal-cuda.dir/main.cpp.obj	b4677fc08629d1c4
-13	1464	8052213422046942	CMakeFiles/fractal-cuda.dir/kernel.cu.obj	2f6075a22e6a2af8
-1464	2667	8052213436570615	fractal-cuda.exe	2ef3b6e09fe99e30
-6	1472	8052214061035678	CMakeFiles/fractal-cuda.dir/kernel.cu.obj	2f6075a22e6a2af8
-1473	2355	8052214075724323	fractal-cuda.exe	2ef3b6e09fe99e30
-7	1440	8052214996655794	CMakeFiles/fractal-cuda.dir/kernel.cu.obj	2f6075a22e6a2af8
-1441	2267	8052215011015350	fractal-cuda.exe	2ef3b6e09fe99e30
-13	1499	8052216191955063	CMakeFiles/fractal-cuda.dir/kernel.cu.obj	2f6075a22e6a2af8
-7	1034	8052216805225424	CMakeFiles/fractal-cuda.dir/main.cpp.obj	b4677fc08629d1c4
-1035	1835	8052216815467665	fractal-cuda.exe	2ef3b6e09fe99e30
 6	1007	8052219918892920	CMakeFiles/fractal-cuda.dir/main.cpp.obj	b4677fc08629d1c4
+13	1499	8052216191955063	CMakeFiles/fractal-cuda.dir/kernel.cu.obj	2f6075a22e6a2af8
 1008	1847	8052219928944326	fractal-cuda.exe	2ef3b6e09fe99e30
+3	14	8052190921462907	clean	d8d2d88be7eb3cfb

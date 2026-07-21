@@ -1,0 +1,3 @@
+C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/newton-mpi.dir
+C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/edit_cache.dir
+C:/Clases/Decimo Semestre/Programación Paralela/Correcciones/prueba01_Flores_Armijo_Byron/build/CMakeFiles/rebuild_cache.dir
